@@ -31,6 +31,11 @@ main h2 {
     padding: 3px;
 }
 
+.mrcode-style {
+    color: hotpink;
+    background-color: black;
+}
+
 .code-ninja-style {
     color: blue;
     background-color: lightblue;
