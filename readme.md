@@ -1,3 +1,4 @@
 # Class Roster Project
 
-Contributed to by Jane Doe, Mr. Code
+Contributed to by Jane Doe, Mr. Code, Code Ninja
+
