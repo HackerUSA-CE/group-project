@@ -4,4 +4,4 @@
 Lead: Luis Hernandez
 AI: Jonathon Hinchley
 
-Contributed to by Jane Doe, Code Ninja
+Contributed to by German Almonte
