@@ -1,0 +1,44 @@
+/* Basic Styling - don't alter this part! */
+html,
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(170, 183, 252);
+    color: #555;
+}
+header {
+    background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
+    color: white;
+    padding: 25px;
+}
+header h1 {
+    margin: 0;
+}
+main h2 {
+    color: black;
+    text-decoration: underline;
+}
+.container {
+    width: 65%;
+    margin: 0 auto;
+}
+
+/* Add Student Styles Below */
+.jane-style {
+    color: hotpink;
+    background-color: black;
+    padding: 3px;
+}
+
+.code-ninja-style {
+    color: blue;
+    background-color: lightblue;
+    padding: 3px;
+}
+
+.ay-ay-ron-style {
+    color: white;
+    background-color: rgb(99, 84, 150);
+    padding: 3px;
+}
