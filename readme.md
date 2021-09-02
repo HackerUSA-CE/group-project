@@ -1,3 +1,12 @@
+
+# Class Roster Project
+
+## Instructors:
+Lead: Luis Hernandez
+AI: Jonathon Hinchley
+
+
+
 # Class Roster Project
 
 ## Instructors:
@@ -12,3 +21,4 @@ Contributed to by Jane Doe, Code Ninja
 
 Contributed to by German Almonte
 
+Contributed to by Michelle Olivera
