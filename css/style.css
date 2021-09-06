@@ -4,25 +4,27 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: rgb(170, 183, 252);
+    background-color: cornflowerblue;
     color: #555;
 }
 header {
-    background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
     color: white;
     padding: 25px;
 }
 header h1 {
-    margin: 0;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 15px;
 }
 main h2 {
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: underline;
 }
-.container {
-    width: 65%;
-    margin: 0 auto;
-}
+
+/* table css */
+
 
 /* Add Student Styles Below */
 .jane-style {
