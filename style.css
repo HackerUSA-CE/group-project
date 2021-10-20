@@ -24,12 +24,21 @@ main h2 {
     margin: 0 auto;
 }
 
+
 /* Add Student Styles Below */
 .nolan-style {
     color:crimson;
     background-color:darkgrey;
     padding: 3px;
 }
+
+.ryan-style {
+    color:cornflowerblue;
+    background-color: crimson;
+    padding: 5px;
+}
+
+
 .jane-style {
     color: hotpink;
     background-color: black;
