@@ -1,5 +1,3 @@
 # Class Roster Project
-
+Contributed to by Ben Thompson, Joe Fruth/Jadedrose215
 Wednesday
-
-Contributed to by Joe Fruth, Code Ninja
