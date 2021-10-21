@@ -1,5 +1,6 @@
 # Class Roster Project
 
-Wednesday
+
+Contributed to by Nolan Sweeney
 
 Contributed to by Ryan Rasmussen
