@@ -2,4 +2,4 @@
 
 Wednesday
 
-*Contributed to by Kristina Kinard, Steve Hairston
+*Contributed to by Kristina Kinard, Steve Hairston*
