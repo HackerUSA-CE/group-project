@@ -40,3 +40,8 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+.kristina-code {
+    color:rgb(235, 92, 187); 
+    background-color:rgb(92, 149, 235); 
+    padding: 3px;
+}
