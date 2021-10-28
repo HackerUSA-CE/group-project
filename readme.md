@@ -1,5 +1,5 @@
 # Class Roster Project
-_Contributed by Bill Rhoads_
+_Contributed by Christian (Lucky) Luciano
 
 Wednesday
 
