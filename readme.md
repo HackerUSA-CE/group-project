@@ -2,4 +2,4 @@
 Contributed to by Teresita Birkestrand
 Wednesday
 
-Contributed to by Jane Doe, Code Ninja
+Contributed to by Teresita Birkestrand, Code Ninja
