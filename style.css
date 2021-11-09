@@ -4,11 +4,13 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: rgb(217, 234, 240);
-    color: #555;
+    background-image: url(https://www.huntshowdown.com//files/screenshots/32_Hunt_screenshot_Update6.0.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: rgb(255, 0, 0);
 }
 header {
-    background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
+    background: linear-gradient(to bottom right, rgb(92, 149, 235), rgb(190, 18, 18));
     color: white;
     padding: 25px;
 }
@@ -25,7 +27,7 @@ main h2 {
 }
 
 /* Add Student Styles Below */
-.jane-style {
+.kirbykirbykirby {
     color: hotpink;
     background-color: black;
     padding: 3px;
@@ -37,6 +39,6 @@ main h2 {
     padding: 3px;
 }
 
-.codys-styles {
+.kirby-styles {
     background:rgb(92, 149, 235);
 }
