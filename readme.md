@@ -1,7 +1,7 @@
 # Class Roster Project
 
-Wednesday
+Wednesday my dudes
 
-Contributed to by Jane Doe, Code Ninja
-
+Contributed to by Kirby
+ 
 popocorn
