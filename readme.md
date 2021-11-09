@@ -1,6 +1,6 @@
 # Class Roster Project
 
-Wednesday
+Wednesday my dudes
 
 Contributed to by Kirby
  
