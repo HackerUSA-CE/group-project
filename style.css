@@ -48,3 +48,9 @@ main h2 {
 .codys-styles {
   background: rgb(92, 149, 235);
 }
+
+.natalia-style {
+  color: orange;
+  background-color: purple;
+  padding: auto;
+}
