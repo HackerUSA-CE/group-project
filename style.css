@@ -25,11 +25,20 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+<<<<<<< HEAD
 
 .victor-style {
   color: blue;
 }
 
+=======
+.Mohammad-Alzeyarah {
+    color:aqua;
+    background-color:brown;
+    padding:0rem;
+    
+}
+>>>>>>> fa9757ee74c9806a2d4a21e1e4b5dafe29fe1a88
 .jane-style {
   color: hotpink;
   background-color: black;
