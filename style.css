@@ -1,42 +1,47 @@
 /* Basic Styling - don't alter this part! */
 html,
 body {
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    background-color: rgb(217, 234, 240);
-    color: #555;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: rgb(217, 234, 240);
+  color: #555;
 }
 header {
-    background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
-    color: white;
-    padding: 25px;
+  background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
+  color: white;
+  padding: 25px;
 }
 header h1 {
-    margin: 0;
+  margin: 0;
 }
 main h2 {
-    color: black;
-    text-decoration: underline;
+  color: black;
+  text-decoration: underline;
 }
 .container {
-    width: 65%;
-    margin: 0 auto;
+  width: 65%;
+  margin: 0 auto;
 }
 
 /* Add Student Styles Below */
+
+.victor-style {
+  color: blue;
+}
+
 .jane-style {
-    color: hotpink;
-    background-color: black;
-    padding: 3px;
+  color: hotpink;
+  background-color: black;
+  padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
-    background-color: lightblue;
-    padding: 3px;
+  color: blue;
+  background-color: lightblue;
+  padding: 3px;
 }
 
 .codys-styles {
-    background:rgb(92, 149, 235);
+  background: rgb(92, 149, 235);
 }
