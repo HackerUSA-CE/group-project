@@ -19,5 +19,5 @@
 5. Now that your changes have been saved, you can move them to the main branch of your repository and make them official. In order to do this used the command *git push origin main*. This will make the version of your repository saved on GitHub.com identical to the version on your local machine, including your new changes. 
 6. If there are changes to the repository which have been pushed to main, but don't exist on your local machine yet, you can pull them down to your local machine by running the command *git pull origin main* or more simply *git pull*.
 
-**That's all! This is all it takes to use GitHub to save progress on your projects!
+**That's all! This is all it takes to use GitHub to save progress on your projects!**
 
