@@ -21,3 +21,5 @@
 
 **That's all! This is all it takes to use GitHub to save progress on your projects!**
 
+Jorge Perez
+Jorge Luis Perez
