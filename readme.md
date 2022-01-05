@@ -20,4 +20,6 @@
 6. If there are changes to the repository which have been pushed to main, but don't exist on your local machine yet, you can pull them down to your local machine by running the command `git pull origin main` or more simply `git pull`.
 
 **That's all! This is all it takes to use GitHub to save progress on your projects!**
+
 Jorge Perez
+Christylle Ibanez
