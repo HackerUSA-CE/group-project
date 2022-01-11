@@ -27,8 +27,14 @@ main h2 {
 /* Add Student Styles Below */
 .jane-style {
     color: hotpink;
-    background-color: black;
+    background-color: black);
     padding: 3px;
+}
+
+.Emmanuel-style {
+    color: white;
+    background-color: black;
+    padding: 5px;
 }
 
 .code-ninja-style {
