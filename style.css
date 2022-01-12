@@ -25,15 +25,20 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+.my-style {
+    color: brown;
+    background-color: blanchedalmond;
+    padding: 3px;
+}
 .jane-style {
-    color: hotpink;
-    background-color: black;
+    color: brown;
+    background-color: blanchedalmond;
     padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
-    background-color: lightblue;
+    color: brown;
+    background-color: blanchedalmond;
     padding: 3px;
 }
 
