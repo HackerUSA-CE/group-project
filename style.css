@@ -30,6 +30,11 @@ main h2 {
     background-color: yellowgreen;
     padding: 3px;
 }
+.food{
+    color:maroon;
+    background-color:orangered;
+    padding: 3px;
+}
 .jane-style {
     color: hotpink;
     background-color: black;
