@@ -45,5 +45,6 @@ main h2 {
     color: cornflowerblue;
     background: black;
     padding:3px;
-    border-radius: 5px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
 }
