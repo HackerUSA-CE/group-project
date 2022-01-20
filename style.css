@@ -4,13 +4,13 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: rgb(217, 234, 240);
+    background-color: blue(217, 234, 240);
     color: #555;
 }
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
-    color: white;
-    padding: 25px;
+    color: purple;
+    padding: 3px;
 }
 header h1 {
     margin: 0;
