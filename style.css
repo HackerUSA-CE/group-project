@@ -40,3 +40,11 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+
+.hannah-style {
+    color: cornflowerblue;
+    background: black;
+    padding:3px;
+    border-radius: 8px;
+    font-family: 'Courier New', Courier, monospace;
+}
