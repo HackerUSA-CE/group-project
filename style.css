@@ -26,8 +26,8 @@ main h2 {
 
 /* Add Student Styles Below */
 .my-style {
-    color: rgb(31, 185, 39);
-    background-color: rgb(145, 141, 114);
+    color: rgba(28, 160, 34, 0.61);
+    background-color: rgb(255, 245, 177);
     padding: 3px;
 }
 
