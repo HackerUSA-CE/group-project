@@ -1,5 +1,5 @@
 # Hey! Let's learn about GitHub commands! 
-ontributed to by Joe Lee
+ontributed to by Joseph Lee
 
 ## Follow this sequence in order to correctly fork and clone this repository:
 
