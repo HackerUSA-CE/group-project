@@ -4,19 +4,19 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: rgb(217, 234, 240);
-    color: #555;
+    background-color: rgb(35, 155, 199);
+    color: rgb(8, 3, 3);
 }
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
-    color: white;
+    color: rgb(241, 255, 252);
     padding: 25px;
 }
 header h1 {
     margin: 0;
 }
 main h2 {
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: underline;
 }
 .container {
@@ -26,17 +26,17 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
+    color: rgb(223, 109, 33);
     background-color: black;
     padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
+    color: rgb(184, 57, 18);
     background-color: lightblue;
     padding: 3px;
 }
 
 .codys-styles {
-    background:rgb(92, 149, 235);
+    background:rgb(224, 221, 18);
 }
