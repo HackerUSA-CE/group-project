@@ -25,18 +25,9 @@ main h2 {
 }
 
 /* Add Student Styles Below */
-.jane-style {
-    color: hotpink;
-    background-color: black;
+.my-style {
+    color: rgb(0, 162, 255);
+    background-color: #eeeeee;
     padding: 3px;
-}
-
-.code-ninja-style {
-    color: blue;
-    background-color: lightblue;
-    padding: 3px;
-}
-
-.codys-styles {
-    background:rgb(92, 149, 235);
+    border-radius: 10px;;
 }
