@@ -26,7 +26,7 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
+    color: rgb(64, 89, 233);
     background-color: black;
     padding: 3px;
 }
@@ -39,4 +39,9 @@ main h2 {
 
 .codys-styles {
     background:rgb(92, 149, 235);
+}
+.my-style {
+    color: blue(105, 170, 255);
+    background-color: rgb(43, 171, 245);
+    padding: 3px;
 }
