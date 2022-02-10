@@ -4,19 +4,19 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: rgb(217, 234, 240);
-    color: #555;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 157);
 }
 header {
-    background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
-    color: white;
+    background: linear-gradient(to bottom right, rgba(0, 0, 0, 0), #333);
+    color: rgb(255, 0, 255);
     padding: 25px;
 }
 header h1 {
     margin: 0;
 }
 main h2 {
-    color: black;
+    color: rgb(255, 0, 221);
     text-decoration: underline;
 }
 .container {
@@ -26,17 +26,17 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
-    background-color: black;
+    color: rgb(255, 0, 128);
+    background-color: rgb(0, 0, 0);
     padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
-    background-color: lightblue;
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 0, 191, 0.856);
     padding: 3px;
 }
 
 .codys-styles {
-    background:rgb(92, 149, 235);
+    background:rgb(0, 0, 0);
 }
