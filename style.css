@@ -40,3 +40,9 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+
+.Spencer-style {
+    color: blueviolet;
+    background-color: violet;
+    padding: 3px;
+}
