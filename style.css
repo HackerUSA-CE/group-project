@@ -24,7 +24,11 @@ main h2 {
     margin: 0 auto;
 }
 
-/* Add Student Styles Below */
+.my-style {
+    color: rgb(156, 31, 190);
+    background-color:rgb(25, 157, 197);
+    padding: 9px;
+}
 .jane-style {
     color: hotpink;
     background-color: black;
