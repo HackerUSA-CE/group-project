@@ -25,9 +25,9 @@ main h2 {
 }
 
 .my-style {
-    color: green;
-    background-color:crimson;
-    padding: 5px;
+    color: rgb(103, 78, 110);
+    background-color:rgb(49, 75, 83);
+    padding: 9px;
 }
 .jane-style {
     color: hotpink;
