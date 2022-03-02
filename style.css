@@ -24,7 +24,11 @@ main h2 {
     margin: 0 auto;
 }
 
-/* Add Student Styles Below */
+.Heidi-style {
+    color: background-color: rgb(255, 255, 128);
+    background-color: black;
+    padding: 3px;
+}
 .jane-style {
     color: hotpink;
     background-color: black;
