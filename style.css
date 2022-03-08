@@ -40,7 +40,7 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
-.wilgner-style {
+.wilgner-style {  /* Comment */
     color: red;
     background-color: black;
     paddign: 3px;
