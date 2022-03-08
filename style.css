@@ -1,4 +1,9 @@
 /* Basic Styling - don't alter this part! */
+.my-style{
+    color:hotpink;
+    background-color:black;
+    padding:3px;
+}
 html,
 body {
     margin: 0;
