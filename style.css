@@ -25,6 +25,12 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+.my-style {
+    color: lightskyblue;
+    background-color: darkslategrey;
+    padding: 3px;
+}
+
 .jane-style {
     color: hotpink;
     background-color: black;
