@@ -40,3 +40,9 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+
+.my-style {
+    color: hotpink;
+    background-color: black;
+    padding: 3px;
+}
