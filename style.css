@@ -49,3 +49,10 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.my-name {
+    background-color:darkgray;
+    color:rgb(92, 149, 235)
+    padding 3px;
+
+}
