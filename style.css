@@ -29,11 +29,20 @@ main h2 {
     margin: 0 auto;
 }
 
+
 .jesse-style {
     color:rgb(92, 149, 235)
     background-color:beige;
     padding: 3px;
 }
+
+/* Add Student Styles Below */
+.Jaida-B {
+    color: blue
+    background-color purple
+    padding 3px; }
+
+
 .jane-style {
     color: hotpink;
     background-color: black;
@@ -57,4 +66,11 @@ main h2 {
 .my-bio {
     background-color: green;
     color: white;
+}
+
+.my-name {
+    background-color:darkgray;
+    color:rgb(92, 149, 235)
+    padding 3px;
+
 }
