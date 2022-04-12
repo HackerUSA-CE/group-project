@@ -24,7 +24,11 @@ main h2 {
     margin: 0 auto;
 }
 
-/* Add Student Styles Below */
+.jesse-style {
+    color:rgb(92, 149, 235)
+    background-color:beige;
+    padding: 3px;
+}
 .jane-style {
     color: hotpink;
     background-color: black;
