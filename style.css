@@ -9,7 +9,7 @@ body {
 }
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
-    color: white;
+    color: rgb(66, 64, 64);
     padding: 25px;
 }
 header h1 {
@@ -28,7 +28,7 @@ main h2 {
 .jane-style {
     color: hotpink;
     background-color: black;
-    padding: 3px;
+    padding: 10px;
 }
 
 .code-ninja-style {
