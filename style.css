@@ -32,8 +32,8 @@ main h2 {
 }
 
 .code-ninja-style {
-    color: blue;
-    background-color: lightblue;
+    color: rgb(255, 0, 234);
+    background-color: rgb(13, 27, 221);
     padding: 3px;
 }
 
