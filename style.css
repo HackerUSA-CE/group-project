@@ -26,26 +26,26 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
+    color: rgb(173, 21, 34);
     background-color: black;
     padding: 3px;
 }
 
 .code-ninja-style {
     color: blue;
-    background-color: lightblue;
+    background-color: rgb(225, 240, 14);
     padding: 3px;
 }
 
 .codys-styles {
-    background:rgb(92, 149, 235);
+    background:rgb(235, 92, 199);
 }
 
 .stans-styles {
-    background-color:lightgray;
+    background-color:rgb(245, 241, 241);
 }
 
 .my-bio {
-    background-color: green;
+    background-color: rgb(105, 12, 12);
     color: white;
 }
