@@ -25,6 +25,15 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+.jacks-style {
+    color: royalblue;
+    background-color: silver;
+    padding: 3px;
+}
+
+
+
+
 .jane-style {
     color: hotpink;
     background-color: black;
