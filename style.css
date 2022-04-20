@@ -27,8 +27,8 @@ main h2 {
 /* Add Student Styles Below */
 
 .my-style {
-    color:darkcyan;
-    background-color: black;
+    color:rgb(67, 59, 138);
+    background-color: rgb(146, 45, 45);
     padding: 3px;
 }
 
