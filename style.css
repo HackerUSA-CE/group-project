@@ -25,6 +25,12 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+.victoria-style {
+    color:rgb(164, 171, 162);
+    background-color:rgb(55, 68, 38);
+    padding: 3px;
+}
+
 .jane-style {
     color: hotpink;
     background-color: black;
