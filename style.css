@@ -49,3 +49,20 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.scott-style {
+    color: red;
+    background-color: cornflowerblue;
+    font-size: larger;
+    padding: 3px;
+}
+
+.blinking {
+    animation: blinker 3s linear infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
