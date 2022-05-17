@@ -48,4 +48,9 @@ main h2 {
 .my-bio {
     background-color: green;
     color: white;
+}.my-style {
+    color: rgb(109, 30, 173);
+    background-color: black;
+    padding: 3px;
 }
+
