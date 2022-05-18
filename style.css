@@ -25,8 +25,8 @@ main h2 {
 }
 
 /* Add Student Styles Below */
-.jane-style {
-    color: hotpink;
+.marissa-style {
+    color: maroon;
     background-color: black;
     padding: 3px;
 }
@@ -46,6 +46,6 @@ main h2 {
 }
 
 .my-bio {
-    background-color: green;
+    background-color: plum;
     color: white;
 }
