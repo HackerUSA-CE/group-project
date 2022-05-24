@@ -49,3 +49,9 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.my-style{
+    color: azure;
+    background-color:#555;
+    padding: 3px;
+}
