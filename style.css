@@ -49,3 +49,9 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.gokhan-style {
+    color: yellow;
+    background-color: black;
+    padding: 3px;
+}
