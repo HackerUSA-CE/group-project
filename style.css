@@ -19,6 +19,8 @@ main h2 {
     color: black;
     text-decoration: underline;
 }
+
+
 .container {
     width: 65%;
     margin: 0 auto;
@@ -26,8 +28,8 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
-    background-color: black;
+    background: linear-gradient(to bottom right, rgb(252, 38, 170), #333);
+    background-color: hotpink;
     padding: 3px;
 }
 
@@ -42,10 +44,9 @@ main h2 {
 }
 
 .stans-styles {
-    background-color:lightgray;
+    background: linear-gradient(to bottom right, rgb(76, 219, 255), rgb(255, 178, 155));d
 }
 
 .my-bio {
-    background-color: green;
-    color: white;
+
 }
