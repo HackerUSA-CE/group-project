@@ -49,3 +49,14 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.Christopher-styles {
+    border: 3px solid #333;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-radius: 15px;
+    color: #fff;
+    background-color: blue;
+    padding: 15px;
+
+}
