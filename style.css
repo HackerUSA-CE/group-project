@@ -25,6 +25,12 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+.my-style {
+    color:cyan;
+    background-color: magenta;
+    padding: 2px;
+}
+/*I need to learn about Javascript */
 .jane-style {
     color: hotpink;
     background-color: black;
