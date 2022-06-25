@@ -49,3 +49,23 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.johns-styles{  
+
+    background-color: salmon;
+    color: white;
+    font-size: 24px;
+    padding: 3px;
+    border: 5px dotted white;
+    box-shadow: 20px 20px 50px grey;
+
+}
+
+.johns-firstbranch{
+
+    background-color: lightgray;
+    color: whitesmoke;
+    font-size: 18px;
+    padding: 3px;
+    box-shadow: 20px 20px 50px whitesmoke;
+}
