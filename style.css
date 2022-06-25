@@ -60,3 +60,12 @@ main h2 {
     box-shadow: 20px 20px 50px grey;
 
 }
+
+.johns-firstbranch{
+
+    background-color: lightgray;
+    color: whitesmoke;
+    font-size: 18px;
+    padding: 3px;
+    box-shadow: 20px 20px 50px whitesmoke;
+}
