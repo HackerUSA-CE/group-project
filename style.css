@@ -49,3 +49,9 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.vic-styles {
+    color:rgb(255, 255, 255);
+    background-color: navy;
+    padding: 3px;
+}
