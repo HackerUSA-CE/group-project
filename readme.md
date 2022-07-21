@@ -1,7 +1,7 @@
 # Hey! Let's learn about GitHub commands! 
 joe 
 ## Follow this sequence in order to correctly fork and clone this repository:
-
+JESUS CHANGED IT 
 1. Fork the repository via the fork button at the top left of the repository page
 2. Click the code button *making sure* that you're using your own personal forked link.
 3. Head back to your own terminal and navigate to the folder where you'd like to save this repository on your local machine
