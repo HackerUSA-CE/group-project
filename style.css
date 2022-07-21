@@ -49,3 +49,30 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+
+
+button.surprise {
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 20%;
+    box-shadow: 0 10px gray;
+}
+button.surprise:hover {
+    background-color: purple;
+    color: white;
+    box-shadow: 0 10px rgb(161, 107, 161);
+}
+button.surprise:active {
+    box-shadow: 0 3px rgb(161, 107, 161);
+    transition: .1s;
+    transform: translateY(7px)
+}
+button.surprise:active + p.invisible{
+    display: block;
+}
+p.invisible {
+    display: none;
+    font-size: 30px;
+    color: purple;
+}
