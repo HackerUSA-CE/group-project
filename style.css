@@ -31,6 +31,14 @@ main h2 {
     padding: 3px;
 }
 
+.brad-style {
+    animation-duration: 3s;
+    animation-name: slidein;
+    color: rgba(7, 5, 140, 0.751);
+    background-color: rgb(120, 13, 156);
+    padding: 3px;
+}
+
 .code-ninja-style {
     color: blue;
     background-color: lightblue;
@@ -49,3 +57,32 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.scott-style {
+    color: red;
+    background-color: cornflowerblue;
+    font-size: larger;
+    padding: 3px;
+}
+
+.blinking {
+    animation: blinker 3s linear infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
+@keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
