@@ -45,7 +45,7 @@ main h2 {
     background-color:lightgray;
 }
 
-.my-bio {
-    background-color: green;
-    color: white;
+.ULTRA-bio {
+    background-color: rgba(0, 128, 0, 0.658);
+    color: rgb(255, 153, 0);
 }
