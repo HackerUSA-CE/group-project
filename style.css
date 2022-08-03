@@ -31,6 +31,12 @@ main h2 {
     padding: 3px;
 }
 
+.peter {
+    color:rgb(92, 149, 235);
+    background-color: antiquewhite;
+    padding: 3px;
+}
+
 .jane-style {
     color: hotpink;
     background-color: black;
