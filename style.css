@@ -31,6 +31,12 @@ main h2 {
     padding: 3px;
 }
 
+.my-style {
+    color: cyan;
+    background-color: yellow;
+    padding: 3px;
+}
+
 .code-ninja-style {
     color: blue;
     background-color: lightblue;
