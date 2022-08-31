@@ -35,6 +35,7 @@ main h2 {
     color: teal;
     background-color: red;
     padding: 3px;
+    border: solid blue;
 }
 
 .code-ninja-style {
