@@ -25,10 +25,11 @@ main h2 {
 }
 
 /* Add Student Styles Below */
-.jane-style {
-    color: hotpink;
+.my-style {
+    color:aqua;
     background-color: black;
-    padding: 3px;
+    padding: 3px
+}
 }
 
 .code-ninja-style {
