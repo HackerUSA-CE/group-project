@@ -30,7 +30,11 @@ main h2 {
     background-color: black;
     padding: 3px;
 }
-
+.laura-style {
+    color: palevioletred;
+    background-color: black;
+    padding: 4px;
+}
 .code-ninja-style {
     color: blue;
     background-color: lightblue;
