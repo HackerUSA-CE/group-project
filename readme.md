@@ -1,5 +1,5 @@
 # Hey! Let's learn about GitHub commands! 
-joe 
+
 ## Follow this sequence in order to correctly fork and clone this repository:
 
 1. Fork the repository via the fork button at the top left of the repository page
@@ -22,4 +22,3 @@ joe
 **That's all! This is all it takes to use GitHub to save progress on your projects!**
 
 Azhar was here.
-YOLO
