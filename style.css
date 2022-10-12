@@ -25,6 +25,11 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+.lexis-style {
+    color: orangered;
+    background-color: black;
+    padding: 3px;
+}
 .jane-style {
     color: hotpink;
     background-color: black;
