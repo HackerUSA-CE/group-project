@@ -49,3 +49,31 @@ main h2 {
     background-color: green;
     color: white;
 }
+.my-style {
+    color: #fff;
+    background-color: red;
+    padding: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    border: 5px solid blue;
+    border-radius: 60px;
+    margin: 30px 0;
+}
+.my-style h3 {
+    -webkit-animation:grow 1s linear infinite;
+    -moz-animation:grow 1s linear infinite;
+    animation:grow 1s linear infinite;
+}
+@-moz-keyframes grow { 
+    100% { -moz-transform: scale(1.5); } 
+}
+@-webkit-keyframes grow { 
+    100% { -webkit-transform: scale(1.5); } 
+}
+@keyframes grow { 
+    100% { 
+        -webkit-transform: scale(1.5); 
+        transform: scale(1.5);
+    } 
+}
