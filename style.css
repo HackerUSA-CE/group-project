@@ -49,3 +49,11 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.my-style {
+    color: red;
+    background-color:darkturquoise;
+    padding: 3px
+
+
+}
