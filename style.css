@@ -49,3 +49,9 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+.my-style {
+    color: cyan; 
+    background-color: goldenrod;
+    padding: 3px;
+}
