@@ -51,7 +51,7 @@ main h2 {
 }
 
 .my-style {
-    color: hotpink;
+    color: rgb(100, 11, 56);
     background-color: aquamarine;
     padding: 3px; 
 }
