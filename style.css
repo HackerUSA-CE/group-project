@@ -23,6 +23,11 @@ main h2 {
     width: 65%;
     margin: 0 auto;
 }
+.my-style {
+    color: hotpink;
+    background-color: black;
+    padding: 3px;
+}
 
 /* Add Student Styles Below */
 .jane-style {
