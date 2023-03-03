@@ -26,13 +26,13 @@ main h2 {
 
 /* Add Student Styles Below */
 .my-style{
-    color:hotpink;
-    background-color: black;
+    color:lightgreen;
+    background-color: blue;
     padding: 3px;
 }
 .jane-style {
-    color: lightgreen;
-    background-color: blue;
+    color: hotpink;
+    background-color: black;
     padding: 3px;
 }
 
