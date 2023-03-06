@@ -7,6 +7,13 @@ body {
     background-color: rgb(217, 234, 240);
     color: #555;
 }
+
+.my-style {
+    color: hotpink;
+    background-color: black;
+    padding: 3px;
+}
+
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
     color: white;
