@@ -55,3 +55,9 @@ main h2 {
     background-color: black;
     padding: 3px;
 }
+
+.my-blue-style {
+    color: rgb(63, 61, 151);
+    background-color: black;
+    padding: 3px;
+}
